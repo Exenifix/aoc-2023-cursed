@@ -1,5 +1,5 @@
 s = 0
-with open("res/1-1.txt") as f:
+with open("res/1.txt") as f:
     for row in f:
         row = row[:-1]
         if row == "sdpgz3five4seven6fiveh":
